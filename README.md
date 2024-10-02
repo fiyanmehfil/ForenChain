@@ -28,8 +28,14 @@ Bitcoin's rise in the financial world has also facilitated illegal activities su
 ### 1. Illicit Transaction Detection (illicit_transaction_detection.py)
   This module identifies illicit Bitcoin transactions by analyzing block data, transactions, and addresses against predefined heuristic rules.
 
+  ![Untitled design (3)](https://github.com/user-attachments/assets/9429b3ef-3ae3-4dbe-b10c-f3cfb0ad096a)
+
 ### 2. Transaction Hash Details (transaction_details.py)
-  This module allows the user to fetch detailed information about a specific transaction hash, including transaction inputs, outputs, addresses, and fee information.
+  This module allows the user to fetch detailed information about a specific transaction hash, including transaction inputs, outputs, addresses and fee information.
+  
+  ![Untitled design (2)](https://github.com/user-attachments/assets/bf92a4e3-7d77-42fb-9a56-7e4ea7dcae29)
+
+
 
 ## Future Work
 * **Anomaly Detection**: Incorporate advanced anomaly detection techniques to identify transactions beyond predefined heuristics.
